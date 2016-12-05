@@ -1,6 +1,7 @@
 # Rails 5 Starter Application
 ## Created by Frederick John
-*This is a common starting point for my applications. It contains the following...*
+
+**This is a common starting point for my applications. It contains the following...**
 
 * Two Models: User & Task
 *models include associations (i.e. foreign key for bidirectional relationship)*
@@ -16,6 +17,7 @@
 
 * Sass
 *I've chagned application.css to an .scss extension and imported external stylesheets for improved stylesheet management*
+
 ---------------------------------------------------------------------
 
 ##Configuration
@@ -24,4 +26,4 @@
 
 * Deployment instructions
 
-Clone repository and run $ ``` bundle install ```. Make sure you have ImageMagick installed for proper paperclip functionality. For more information visit their [github] page (https://github.com/thoughtbot/paperclip)
+Clone repository and run $ ``` bundle install ```. Make sure you have ImageMagick installed for proper paperclip functionality. For more information visit their github page https://github.com/thoughtbot/paperclip
